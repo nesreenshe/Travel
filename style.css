@@ -1,0 +1,45 @@
+.bg-img {
+  background-image: url(./img/04c92f4b1888be1f59c0cf8549526806.jpeg);
+  background-position: 50%;
+}
+/* navbar */
+.navbar {
+  background-color: rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 30px rgba(200, 200, 205, 0.37);
+  border: 1.5px solid rgba(255, 255, 255, 0.18);
+  
+}
+
+button {
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+}
+input:hover {
+  box-shadow: 0px 0px 15px #fe21a2, 0px 0px 15px #fe21a2, 0px 0px 15px #fe21a2;
+}
+button:before {
+  animation: rotate 2s infinite linear;
+  filter: blur(20px);
+}
+button:hover {
+  box-shadow: 0px 0px 15px #b821fe, 0px 0px 15px#b821fe, 0px 0px 15px#b821fe;
+}
+.card:hover {
+  box-shadow: 0px 0px 15px #fe21a2, 0px 0px 15px #fe21a2, 0px 0px 15px #fe21a2;
+}
+p:hover {
+  color: #fe21a2;
+}
+
+h1:hover {
+  color: #b821fe;
+}
+.imgeg-bg{
+    background-image: url(./img/8d98d9f895d45f1a7a10b3f4152d0a2a.jpeg);
+    background-position: 50%;
+}
+
+ 
+    
+    
+   
+ 
